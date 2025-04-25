@@ -2,9 +2,9 @@
 Contributors: Themes4WP
 Tags: one-column, two-columns, full-width-template, right-sidebar, custom-background, custom-menu, editor-style, featured-images, translation-ready, custom-logo, threaded-comments, footer-widgets, blog, e-commerce
 Requires at least: 4.4
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 Requires PHP: 5.4
-Tested up to: 6.4
+Tested up to: 6.8
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -61,6 +61,9 @@ All other resources and theme elements are licensed under the [GNU GPL](http://w
 Popularis is distributed under the terms of the GNU GPL (http://www.gnu.org/licenses/gpl-3.0.txt), version 3 or later.
 
 == Changelog ==
+
+= Version 1.1.3 =
+* Tested and tagged with WP 6.8
 
 = Version 1.1.2 =
 * Fixed CSRF security issue in notice dismiss
